@@ -38,7 +38,7 @@ const theme = createTheme({
 
 theme.typography.h1 = {
   fontSize: '2rem',
-  fontWeight: 600,
+  fontWeight: 800,
   [theme.breakpoints.up('md')]: {
     fontSize: '3.4rem',
   },
@@ -46,7 +46,7 @@ theme.typography.h1 = {
 };
 
 theme.typography.h2 = {
-  fontSize: '1.5rem',
+  fontSize: '1.4rem',
   fontWeight: 600,
   [theme.breakpoints.up('md')]: {
     fontSize: '1.8rem',
@@ -55,7 +55,7 @@ theme.typography.h2 = {
 };
 
 theme.typography.h3 = {
-  fontSize: '1.4rem',
+  fontSize: '1.2rem',
   fontWeight: 600,
   [theme.breakpoints.up('md')]: {
     fontSize: '1.6rem',

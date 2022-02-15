@@ -2,7 +2,7 @@ import styled from "styled-components";
 import Leo from '../pic/Leo.png'
 import Austin from '../pic/Austin.png'
 import Penny from '../pic/Penny.png'
-import Enei from '../pic/Enei.png'
+import Enie from '../pic/Enie.png'
 import Alison from '../pic/Alison.png'
 import Percy from '../pic/Percy.png'
 import Container from '@mui/material/Container'
@@ -52,8 +52,8 @@ function Team(){
             <Typography variant="h3" color='primary.main' sx={{ mt:1, textAlign: 'center' }}>Penny Peng</Typography>
           </Grid>
           <Grid item xs={6} sm={4} sx={{ justifyContent:'center' }}>
-            <MemberImg src={Enei} />
-            <Typography variant="h3" color='primary.main' sx={{ mt:1, textAlign: 'center' }}>Enei Tsai</Typography>
+            <MemberImg src={Enie} />
+            <Typography variant="h3" color='primary.main' sx={{ mt:1, textAlign: 'center' }}>Enie Tsai</Typography>
           </Grid>
           <Grid item xs={6} sm={4}>
             <MemberImg src={Alison} />
