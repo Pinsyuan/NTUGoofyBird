@@ -7,7 +7,7 @@ import Typography from '@mui/material/Typography';
 
 function Header(props){
 	const openNewTab = () => {
-		const newWindow = window.open('https://www.youtube.com/', '_blank', 'noopener,noreferrer');
+		const newWindow = window.open('https://opensea.io/collection/gongguan-goofy-bird', '_blank', 'noopener,noreferrer');
 		if (newWindow) newWindow.opener = null;
 	}
 

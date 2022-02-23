@@ -28,9 +28,9 @@ function Team(){
               <br /><br />
               我們是六個因為臺大而相逢相識相知的朋友，在 2022 這波NFT熱潮下，希望藉由NFT表示對臺大的認同感，讓上鏈後的作品，向世界宣告『我愛臺大直到永遠』，留下不朽的時間戳記。
               <br />
-              於是我們設計出了「臺大笨鳥 NTU Goofy Bird」NFT，以臺大特色為主軸，融合了大家最熟悉的大笨鳥、校園生活、各學院特色等....。
+              於是我們設計出了「公館笨鳥 Gongguan Goofy Bird」這個系列作品，以臺大特色為主軸，融合了大家最熟悉的大笨鳥。
               <br /><br />
-              STOP FOMO（Stop Fear of Missing out）是我們的初衷，我們希望回歸藝術本質，沒有設立白名單與社群來抬高價值，讓台大的特色藉由藝術形態在鏈上可以永流傳。
+              STOP FOMO（Stop Fear of Missing out）是我們的初衷，我們希望回歸藝術本質，沒有設立白名單與社群來抬高價值，讓臺大的特色藉由藝術形態在鏈上可以永流傳。
             </Typography>
           </Container>
         </ContentPaper>
@@ -39,18 +39,6 @@ function Team(){
       <ContentContainer>
         <Typography variant="h3" color='text.gray' sx={{ fontWeight: 400, textAlign: {xs: 'center', sm: 'left'} }}>。團隊成員</Typography>
         <MemberGrid container spacing={8}>
-          <Grid item xs={6} sm={4} sx={{ justifyContent:'center' }}>
-            <MemberImg src={Leo} />
-            <Typography variant="h3" color='primary.main' sx={{ mt:1, textAlign: 'center' }}>Leo Wu</Typography>
-          </Grid>
-          <Grid item xs={6} sm={4}>
-            <MemberImg src={Austin} />
-            <Typography variant="h3" color='primary.main' sx={{ mt:1, textAlign: 'center' }}>Austin Huang</Typography>
-          </Grid>
-          <Grid item xs={6} sm={4}>
-            <MemberImg src={Penny} />
-            <Typography variant="h3" color='primary.main' sx={{ mt:1, textAlign: 'center' }}>Penny Peng</Typography>
-          </Grid>
           <Grid item xs={6} sm={4} sx={{ justifyContent:'center' }}>
             <MemberImg src={Enie} />
             <Typography variant="h3" color='primary.main' sx={{ mt:1, textAlign: 'center' }}>Enie Tsai</Typography>
@@ -62,6 +50,18 @@ function Team(){
           <Grid item xs={6} sm={4}>
             <MemberImg src={Percy} />
             <Typography variant="h3" color='primary.main' sx={{ mt:1, textAlign: 'center' }}>Percy Li</Typography>
+          </Grid>
+          <Grid item xs={6} sm={4} sx={{ justifyContent:'center' }}>
+            <MemberImg src={Leo} />
+            <Typography variant="h3" color='primary.main' sx={{ mt:1, textAlign: 'center' }}>Leo Wu</Typography>
+          </Grid>
+          <Grid item xs={6} sm={4}>
+            <MemberImg src={Austin} />
+            <Typography variant="h3" color='primary.main' sx={{ mt:1, textAlign: 'center' }}>Austin Huang</Typography>
+          </Grid>
+          <Grid item xs={6} sm={4}>
+            <MemberImg src={Penny} />
+            <Typography variant="h3" color='primary.main' sx={{ mt:1, textAlign: 'center' }}>Penny Peng</Typography>
           </Grid>
         </MemberGrid>
       </ContentContainer>

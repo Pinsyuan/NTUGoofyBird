@@ -14,8 +14,8 @@ function Home(){
           <InfoImg src={BigPic}/>
         </Grid>
         <Grid item xs={12} sm={6}>
-          <Typography variant="h1" sx={{ textAlign: {xs: 'center', sm: 'left'} }}>台大笨鳥</Typography>
-          <Typography variant="h1" color='text.main' sx={{ textAlign: {xs: 'center', sm: 'left'} }}>NTU Goofy Bird</Typography>
+          <Typography variant="h1" sx={{ textAlign: {xs: 'center', sm: 'left'} }}>公館笨鳥</Typography>
+          <Typography variant="h1" color='text.main' sx={{ textAlign: {xs: 'center', sm: 'left'} }}>Gongguan Goofy Bird</Typography>
           <Typography variant="body1" sx={{ paddingTop: 5, width: {xs: 1, sm: 4/5}, textAlign: {xs: 'center', sm: 'left'} }}>
             第一款以臺大為主題的 NFT，於 OpenSea 平台發售。
           </Typography>

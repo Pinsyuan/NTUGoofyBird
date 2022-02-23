@@ -37,10 +37,10 @@ const theme = createTheme({
 });
 
 theme.typography.h1 = {
-  fontSize: '2rem',
+  fontSize: '1.8rem',
   fontWeight: 800,
   [theme.breakpoints.up('md')]: {
-    fontSize: '3.4rem',
+    fontSize: '3.2rem',
   },
   color: theme.palette.primary.main,
 };

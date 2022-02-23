@@ -3,7 +3,6 @@ import {
   Route,
   useNavigate,
 } from "react-router-dom";
-import './App.css';
 import Header from './components/Header'
 import Home from './components/Home'
 import Gallery from './components/Gallery'
