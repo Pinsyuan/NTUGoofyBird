@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ntu_goofy_bird/static/css/main.008b8bf6.css",
-    "main.js": "/ntu_goofy_bird/static/js/main.aee2c3cc.js",
+    "main.css": "/ntu_goofy_bird/static/css/main.4dd15103.css",
+    "main.js": "/ntu_goofy_bird/static/js/main.9bec6afd.js",
     "static/js/787.e8d31ac0.chunk.js": "/ntu_goofy_bird/static/js/787.e8d31ac0.chunk.js",
     "static/media/Leo.png": "/ntu_goofy_bird/static/media/Leo.d6750514e43f80a33887.png",
     "static/media/Alison.png": "/ntu_goofy_bird/static/media/Alison.3a96fa0b79e6f6755b67.png",
@@ -15,12 +15,12 @@
     "static/media/logo.png": "/ntu_goofy_bird/static/media/logo.c8cf59ed29bdef753585.png",
     "static/media/big-pic.png": "/ntu_goofy_bird/static/media/big-pic.7c6d963e8ec3f19ba1c1.png",
     "index.html": "/ntu_goofy_bird/index.html",
-    "main.008b8bf6.css.map": "/ntu_goofy_bird/static/css/main.008b8bf6.css.map",
-    "main.aee2c3cc.js.map": "/ntu_goofy_bird/static/js/main.aee2c3cc.js.map",
+    "main.4dd15103.css.map": "/ntu_goofy_bird/static/css/main.4dd15103.css.map",
+    "main.9bec6afd.js.map": "/ntu_goofy_bird/static/js/main.9bec6afd.js.map",
     "787.e8d31ac0.chunk.js.map": "/ntu_goofy_bird/static/js/787.e8d31ac0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.008b8bf6.css",
-    "static/js/main.aee2c3cc.js"
+    "static/css/main.4dd15103.css",
+    "static/js/main.9bec6afd.js"
   ]
 }
