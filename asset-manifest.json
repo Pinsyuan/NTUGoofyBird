@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/ntu_goofy_bird/static/css/main.4dd15103.css",
-    "main.js": "/ntu_goofy_bird/static/js/main.9bec6afd.js",
-    "static/js/787.e8d31ac0.chunk.js": "/ntu_goofy_bird/static/js/787.e8d31ac0.chunk.js",
-    "static/media/Leo.png": "/ntu_goofy_bird/static/media/Leo.d6750514e43f80a33887.png",
-    "static/media/Alison.png": "/ntu_goofy_bird/static/media/Alison.3a96fa0b79e6f6755b67.png",
-    "static/media/Percy.png": "/ntu_goofy_bird/static/media/Percy.b4a9c90bbfc375bae0c3.png",
-    "static/media/Enie.png": "/ntu_goofy_bird/static/media/Enie.80ae36c098e0147eccec.png",
-    "static/media/sample1.png": "/ntu_goofy_bird/static/media/sample1.e06eb271104f4a1ade66.png",
-    "static/media/Penny.png": "/ntu_goofy_bird/static/media/Penny.7286a3711aae4e59c93a.png",
-    "static/media/sample3.png": "/ntu_goofy_bird/static/media/sample3.a272c167d8bb323ba58b.png",
-    "static/media/sample2.png": "/ntu_goofy_bird/static/media/sample2.10871b48a59b26545244.png",
-    "static/media/Austin.png": "/ntu_goofy_bird/static/media/Austin.511172087f3803fa4b78.png",
-    "static/media/logo.png": "/ntu_goofy_bird/static/media/logo.c8cf59ed29bdef753585.png",
-    "static/media/big-pic.png": "/ntu_goofy_bird/static/media/big-pic.7c6d963e8ec3f19ba1c1.png",
-    "index.html": "/ntu_goofy_bird/index.html",
-    "main.4dd15103.css.map": "/ntu_goofy_bird/static/css/main.4dd15103.css.map",
-    "main.9bec6afd.js.map": "/ntu_goofy_bird/static/js/main.9bec6afd.js.map",
-    "787.e8d31ac0.chunk.js.map": "/ntu_goofy_bird/static/js/787.e8d31ac0.chunk.js.map"
+    "main.css": "/gongguan_goofy_bird/static/css/main.4dd15103.css",
+    "main.js": "/gongguan_goofy_bird/static/js/main.5966d143.js",
+    "static/js/787.4ff02d0a.chunk.js": "/gongguan_goofy_bird/static/js/787.4ff02d0a.chunk.js",
+    "static/media/Leo.png": "/gongguan_goofy_bird/static/media/Leo.d6750514e43f80a33887.png",
+    "static/media/Alison.png": "/gongguan_goofy_bird/static/media/Alison.3a96fa0b79e6f6755b67.png",
+    "static/media/Percy.png": "/gongguan_goofy_bird/static/media/Percy.b4a9c90bbfc375bae0c3.png",
+    "static/media/Enie.png": "/gongguan_goofy_bird/static/media/Enie.80ae36c098e0147eccec.png",
+    "static/media/sample1.png": "/gongguan_goofy_bird/static/media/sample1.e06eb271104f4a1ade66.png",
+    "static/media/Penny.png": "/gongguan_goofy_bird/static/media/Penny.7286a3711aae4e59c93a.png",
+    "static/media/sample3.png": "/gongguan_goofy_bird/static/media/sample3.a272c167d8bb323ba58b.png",
+    "static/media/sample2.png": "/gongguan_goofy_bird/static/media/sample2.10871b48a59b26545244.png",
+    "static/media/Austin.png": "/gongguan_goofy_bird/static/media/Austin.511172087f3803fa4b78.png",
+    "static/media/logo.png": "/gongguan_goofy_bird/static/media/logo.c8cf59ed29bdef753585.png",
+    "static/media/big-pic.png": "/gongguan_goofy_bird/static/media/big-pic.7c6d963e8ec3f19ba1c1.png",
+    "index.html": "/gongguan_goofy_bird/index.html",
+    "main.4dd15103.css.map": "/gongguan_goofy_bird/static/css/main.4dd15103.css.map",
+    "main.5966d143.js.map": "/gongguan_goofy_bird/static/js/main.5966d143.js.map",
+    "787.4ff02d0a.chunk.js.map": "/gongguan_goofy_bird/static/js/787.4ff02d0a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4dd15103.css",
-    "static/js/main.9bec6afd.js"
+    "static/js/main.5966d143.js"
   ]
 }
