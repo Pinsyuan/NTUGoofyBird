@@ -86,7 +86,7 @@ function Gallery(){
         </Grid>
       </CharGrid>
 
-      <CharGrid container sx={{ alignItems: 'center' }}>
+      <CharGrid container sx={{ alignItems: 'center', pb: 10 }}>
         <Grid item xs={12} sm={4}>
           <CharImg src={sample3} />
         </Grid>

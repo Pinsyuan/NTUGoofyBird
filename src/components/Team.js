@@ -1,10 +1,5 @@
 import styled from "styled-components";
-import Leo from '../pic/Leo.png'
-import Austin from '../pic/Austin.png'
-import Penny from '../pic/Penny.png'
-import Enie from '../pic/Enie.png'
-import Alison from '../pic/Alison.png'
-import Percy from '../pic/Percy.png'
+import data from './data.js'
 import Container from '@mui/material/Container'
 import Grid from '@mui/material/Grid'
 import Paper from '@mui/material/Paper'
@@ -39,30 +34,12 @@ function Team(){
       <ContentContainer>
         <Typography variant="h3" color='text.gray' sx={{ fontWeight: 400, textAlign: {xs: 'center', sm: 'left'} }}>。團隊成員</Typography>
         <MemberGrid container spacing={8}>
-          <Grid item xs={6} sm={4} sx={{ justifyContent:'center' }}>
-            <MemberImg src={Enie} />
-            <Typography variant="h3" color='primary.main' sx={{ mt:1, textAlign: 'center' }}>Enie Tsai</Typography>
-          </Grid>
-          <Grid item xs={6} sm={4}>
-            <MemberImg src={Alison} />
-            <Typography variant="h3" color='primary.main' sx={{ mt:1, textAlign: 'center' }}>Alison Yuan</Typography>
-          </Grid>
-          <Grid item xs={6} sm={4}>
-            <MemberImg src={Percy} />
-            <Typography variant="h3" color='primary.main' sx={{ mt:1, textAlign: 'center' }}>Percy Li</Typography>
-          </Grid>
-          <Grid item xs={6} sm={4} sx={{ justifyContent:'center' }}>
-            <MemberImg src={Leo} />
-            <Typography variant="h3" color='primary.main' sx={{ mt:1, textAlign: 'center' }}>Leo Wu</Typography>
-          </Grid>
-          <Grid item xs={6} sm={4}>
-            <MemberImg src={Austin} />
-            <Typography variant="h3" color='primary.main' sx={{ mt:1, textAlign: 'center' }}>Austin Huang</Typography>
-          </Grid>
-          <Grid item xs={6} sm={4}>
-            <MemberImg src={Penny} />
-            <Typography variant="h3" color='primary.main' sx={{ mt:1, textAlign: 'center' }}>Penny Peng</Typography>
-          </Grid>
+          {data.map((item) => (
+            <Grid item xs={6} sm={4} sx={{ justifyContent:'center' }}>
+              <MemberImg src={item.customizedBird} />
+              <Typography variant="h3" color='primary.main' sx={{ mt:1, textAlign: 'center' }}>{item.name}</Typography>
+            </Grid>
+          ))}
         </MemberGrid>
       </ContentContainer>
     </>
